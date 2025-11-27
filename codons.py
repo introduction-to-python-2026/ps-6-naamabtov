@@ -13,5 +13,5 @@ def create_codon_dict(file):
   
     return codon2aa
 
-print(codon2aa)
+
 
