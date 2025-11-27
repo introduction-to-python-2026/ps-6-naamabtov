@@ -1,4 +1,4 @@
-def create_codon_dict(file):
+def create_codon_dict(path):
   
     file=open(path)
     rows=file.readlines()
